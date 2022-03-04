@@ -6,8 +6,8 @@ import java.util.*;
         Scanner scn = new Scanner(System.in);
     //     int a=scn.nextInt();
     //     int num=0;
-    //     int num1;
-    //     for(int i=1;i<=a;i++)
+        //  int num1;
+        // for(int i=1;i<=a;i++)
     //     {
     //         num+=i;
             
